@@ -1,0 +1,14 @@
+
+{"friendlyVersion": "VERSION",
+ "versionDefName": "VERSION",
+ "media": [
+	{  "type": "png",
+	   "defName": "IMAGE_MENU_ICON",
+	   "file": "images/twostep_icon.png"
+	} ,
+    {  "type": "png",
+	   "defName": "IMAGE_KEY",
+	   "file": "images/key.png"
+	} 	   
+	 ]
+}
